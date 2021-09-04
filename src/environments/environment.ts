@@ -6,8 +6,6 @@ export const environment = {
   production: false,
   logger: {
     level: 'TRACE',
-    serverLevel: 'OFF',
-    serverUrl: 'http://localhost:4200/v1/logger',
   },
 };
 
