@@ -1,0 +1,15 @@
+<div class="container-fluid py-3">
+  <h1>Angular Logger</h1>
+  <div class="d-grid gap-2 col-4 mt-4 mx-auto">
+    <button type="button" class="btn btn-sm btn-primary" (click)="showTrace()">Trace</button>
+    <button type="button" class="btn btn-sm btn-success" (click)="showDebug()">Debug</button>
+    <button type="button" class="btn btn-sm btn-info" (click)="showInfo()">Info</button>
+    <button type="button" class="btn btn-sm btn-warning" (click)="showWarn()">Warn</button>
+    <button type="button" class="btn btn-sm btn-danger" (click)="showError()">Error</button>
+    <button type="button" class="btn btn-sm btn-secondary" (click)="showFatal()">Fatal</button>
+  </div>
+  <p class="mt-4 text-center">
+    <span class="fw-bold me-1">Note:</span>
+    <span class="fst-italic">See the messages displayed in the browser console.</span>
+  </p>
+</div>
