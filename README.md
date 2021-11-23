@@ -1,15 +1,15 @@
 # Angular Logger
 
 
-Application example built with [Angular 12](https://angular.io/) and adding the log component using the [ngx-logger](https://www.npmjs.com/package/ngx-logger) library.
+Application example built with [Angular 13](https://angular.io/) and adding the log component using the [ngx-logger](https://www.npmjs.com/package/ngx-logger) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-log-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-log-component-to-an-angular-application-49f9) in english.
 
 
 
-[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small)](https://rodrigo.kamada.com.br)
-[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small)](https://www.linkedin.com/in/rodrigokamada)
-[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
+[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small&radius=5)](https://rodrigo.kamada.com.br)
+[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://www.linkedin.com/in/rodrigokamada)
+[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&radius=5&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
 
 
 
@@ -196,7 +196,7 @@ Build at: 2021-09-04T19:25:20.982Z - Hash: dcc562d0e20cf029eab3 - Time: 12067ms
 
 **9.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-logger/) and [Stackblitz](https://stackblitz.com/edit/angular12-logger).
 
-![Angular Logger](docs/images/angular-logger.png)
+![Angular Logger](https://res.cloudinary.com/rodrigokamada/image/upload/v1637686964/Blog/angular-logger/angular-logger.png)
 
 
 
