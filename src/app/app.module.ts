@@ -22,7 +22,8 @@ const environmentConfig: any = environment.logger;
     } as any),
     AppRoutingModule,
   ],
-  providers: [],
+  providers: [
+  ],
   bootstrap: [
     AppComponent,
   ],
