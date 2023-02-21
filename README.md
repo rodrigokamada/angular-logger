@@ -1,7 +1,7 @@
 # Angular Logger
 
 
-Application example built with [Angular](https://angular.io/) 14 and adding the log component using the [ngx-logger](https://www.npmjs.com/package/ngx-logger) library.
+Application example built with [Angular](https://angular.io/) 15 and adding the log component using the [ngx-logger](https://www.npmjs.com/package/ngx-logger) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-log-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-log-component-to-an-angular-application-49f9) in english.
 
