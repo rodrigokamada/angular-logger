@@ -195,7 +195,7 @@ Build at: 2021-09-04T19:25:20.982Z - Hash: dcc562d0e20cf029eab3 - Time: 12067ms
 ✔ Compiled successfully.
 ```
 
-**9.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-logger/) and [Stackblitz](https://stackblitz.com/edit/angular14-logger).
+**9.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-logger/) and [Stackblitz](https://stackblitz.com/edit/angular15-logger).
 
 ![Angular Logger](https://res.cloudinary.com/rodrigokamada/image/upload/v1637686964/Blog/angular-logger/angular-logger.png)
 
